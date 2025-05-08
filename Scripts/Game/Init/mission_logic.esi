@@ -1,0 +1,3 @@
+// mission_logic.scr
+// Placeholder: lógica principal do mod
+diag_log "Sistema de missão carregado.";
