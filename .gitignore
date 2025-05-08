@@ -1,0 +1,26 @@
+# Arquivos temporários do sistema
+.DS_Store
+Thumbs.db
+
+# Arquivos do editor
+.vscode/
+*.code-workspace
+
+# Binários e builds
+*.exe
+*.dll
+*.so
+*.pdb
+*.o
+*.obj
+*.log
+*.pyc
+
+# Pastas de build
+/build/
+/bin/
+/out/
+
+# Arma Reforger específico (se necessário, ajuste conforme for testando)
+/*.gproj
+/workbench_temp/
