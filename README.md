@@ -25,4 +25,4 @@ Distribuído sob a Licença MIT. Veja o arquivo `LICENSE` para mais detalhes.
 
 ---
 
-> Desenvolvido por [Seu Nome ou Tag do Discord]
+> Desenvolvido por stalker278
